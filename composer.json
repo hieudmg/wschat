@@ -1,7 +1,7 @@
 {
-  "name": "hieudmg/websocket-chat-sdk",
+  "name": "hieudmg/wschat",
   "description": "websocket chat php sdk",
-  "version": "0.0.1",
+  "version": "v0.0.1",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
