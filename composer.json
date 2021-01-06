@@ -1,0 +1,25 @@
+{
+  "name": "hieudmg/websocket-chat-sdk",
+  "description": "websocket chat php sdk",
+  "version": "0.0.1",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "hieudmg",
+      "email": "hieudmg@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "WsChat\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=7.2",
+    "cboden/ratchet": "^v0.4.3",
+    "react/zmq": "0.4.*",
+    "ext-json": "*",
+    "ext-zmq": "*"
+  }
+}
